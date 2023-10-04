@@ -1,0 +1,2 @@
+	  <p style="color:#000">We will make a coconut products factory. We will produce coco peat, coco fibre, coconut oil, coco shell, sell copra and coconut powder. We buy whole coconuts and sell copra. All other by-products/raw materials are gained at no additional cost. </p>
+	   <p style="color:#000">We will make a coconut products factory. We will produce coco peat, coco fibre, coconut oil, coco shell, sell copra and coconut powder. We buy whole coconuts and sell copra. All other by-products/raw materials are gained at no additional cost. </p>

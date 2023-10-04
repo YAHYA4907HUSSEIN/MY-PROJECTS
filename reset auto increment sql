@@ -1,0 +1,3 @@
+set @autoid :=0; 
+update purchase set purchaseid = @autoid := (@autoid+1);
+alter table purchase Auto_Increment = 1;
